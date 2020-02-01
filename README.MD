@@ -22,6 +22,9 @@ and put the .pto files of this project into them.
 
 Then run the Python script in the pythonbatch folder.
 
+The Basch script in the shbatch folder automates more by not only filling out the template
+but also running hugin_executor and putting finished files into an output directory.
+
 This produces a pto file for each image.
 
 Next go to this folder and use hugin_executor to process each file.
